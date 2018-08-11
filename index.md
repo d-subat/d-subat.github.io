@@ -3,7 +3,7 @@
  
 A synth step sequencer (REACT / ToneJS):
 
- [SynthSequencer](https://d-subat.github.io/SynthSequencer/ 
+ [SynthSequencer](https://d-subat.github.io/synthsequencer/ 
 
 ...
  
