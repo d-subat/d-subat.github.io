@@ -1,8 +1,10 @@
- ## Welcome to my github profile
+ ## Showreel
  
 a dungeon/maze game:
+
 [Space Ship Maze](https://d-subat.github.io/spaceshipmaze/) 
 
-CodePen & FreeCodeCamp Stuff
-[Projects](https://d-subat.github.io/codepenFCCProjects/)
+CodePen & FreeCodeCamp Stuff:
+
+[View Projects](https://d-subat.github.io/codepenFCCProjects/)
 
