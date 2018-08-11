@@ -3,7 +3,7 @@
  
 A synth step sequencer (REACT / ToneJS):
 
-[Space Ship Maze](https://d-subat.github.io/synthsequencer/) 
+[SynthSequencer](https://d-subat.github.io/synthsequencer/) 
  
 
 a dungeon/maze game: (REACT / THREE)
