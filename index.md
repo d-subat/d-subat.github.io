@@ -1,8 +1,15 @@
 <h1>Showreel</h1>
  
-a dungeon/maze game:
+ 
+A synth step sequencer (REACT / ToneJS):
+
+[Space Ship Maze](https://d-subat.github.io/synthsequencer/) 
+ 
+
+a dungeon/maze game: (REACT / THREE)
 
 [Space Ship Maze](https://d-subat.github.io/spaceshipmaze/) 
+
 
 CodePen & FreeCodeCamp Stuff:
 
