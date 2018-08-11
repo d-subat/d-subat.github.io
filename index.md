@@ -1,4 +1,8 @@
- <h1>Welcome to my github profile</h1>
+ ## Welcome to my github profile
  
- [Projects for FreeCodeCamp](https://d-subat.github.io/codepenFCCProjects/)
+a dungeon/maze game:
+[Space Ship Maze](https://d-subat.github.io/spaceshipmaze/) 
+
+CodePen & FreeCodeCamp Stuff
+[Projects](https://d-subat.github.io/codepenFCCProjects/)
 
